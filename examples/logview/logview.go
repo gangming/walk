@@ -10,8 +10,8 @@ import (
 )
 
 import (
+	"github.com/gangming/walk"
 	"github.com/gangming/win"
-	"github.com/lxn/walk"
 )
 
 type LogView struct {

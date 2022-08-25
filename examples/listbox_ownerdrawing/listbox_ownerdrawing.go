@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
+	"github.com/gangming/walk"
+	. "github.com/gangming/walk/declarative"
 	"github.com/gangming/win"
-	"github.com/lxn/walk"
-	. "github.com/lxn/walk/declarative"
 )
 
 func main() {

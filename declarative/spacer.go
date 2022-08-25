@@ -7,7 +7,7 @@
 package declarative
 
 import (
-	"github.com/lxn/walk"
+	"github.com/gangming/walk"
 )
 
 type HSpacer struct {
