@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/lxn/win"
+	"github.com/gangming/win"
 )
 
 type Settings interface {

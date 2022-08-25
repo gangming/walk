@@ -15,7 +15,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/lxn/win"
+	"github.com/gangming/win"
 )
 
 const tableViewWindowClass = `\o/ Walk_TableView_Class \o/`

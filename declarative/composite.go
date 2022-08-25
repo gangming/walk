@@ -7,8 +7,8 @@
 package declarative
 
 import (
+	"github.com/gangming/win"
 	"github.com/lxn/walk"
-	"github.com/lxn/win"
 )
 
 type Composite struct {

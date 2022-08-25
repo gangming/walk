@@ -14,7 +14,7 @@ import (
 )
 
 import (
-	"github.com/lxn/win"
+	"github.com/gangming/win"
 )
 
 type FileDialog struct {

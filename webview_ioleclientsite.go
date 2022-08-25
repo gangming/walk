@@ -12,7 +12,7 @@ import (
 )
 
 import (
-	"github.com/lxn/win"
+	"github.com/gangming/win"
 )
 
 var webViewIOleClientSiteVtbl *win.IOleClientSiteVtbl

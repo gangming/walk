@@ -9,8 +9,8 @@ package declarative
 import (
 	"errors"
 
+	"github.com/gangming/win"
 	"github.com/lxn/walk"
-	"github.com/lxn/win"
 )
 
 type ListBox struct {
